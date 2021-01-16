@@ -25,5 +25,7 @@ Email id= Ratan.19bcon369@jecrcu.edu.in.
 
 Discord user Name = ***~ratan..***
 
-1. Merge plants and animal game.
-2. multiplayer plant and animal hunt.
+1. Merge plants and animal game(Code in the Drive).
+2. multiplayer plant and animal hunt.(In progress Working).
+3. Android app( designed by photo shop).
+4. kids plants and animals Game( playstore link= https://play.google.com/store/apps/details?id=com.Heykas.KidsPuzzleGame&hl=en_US&gl=US).
