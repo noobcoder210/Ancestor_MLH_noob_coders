@@ -24,3 +24,6 @@ Email id= Ratan.19bcon369@jecrcu.edu.in.
 
 
 Discord user Name = ***~ratan..***
+
+1. Merge plants and animal game.
+2. multiplayer plant and animal hunt.
