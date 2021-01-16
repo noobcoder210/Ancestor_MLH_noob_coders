@@ -16,6 +16,9 @@ The same is with plants animals living non living things.
 
 
 **Team members**
-1. Ratan Kumawat(team leader)
+1. Ratan Kumawat(team leader)  
 2. Mahesh
 3. Kashit.
+
+Email id= Ratan.19bcon369@jecrcu.edu.in.
+discord user Name = ***ratan..***.
